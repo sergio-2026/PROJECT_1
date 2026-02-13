@@ -1,0 +1,291 @@
+Sergio’s Investing Cheat Sheet Page 1 (Introduction)
+Basic Terms
+What is a brokerage account?
+A special bank account that allows you to purchase stocks, bonds, and ETFs.
+
+What is a stock?
+Partial ownership of a company. You make money from stocks by dividends and selling them at a higher price than what you bought them for.
+
+What is a dividend?
+It’s a payment made to you as a reward for owning and holding on to a stock. It looks very similar to an interest payment; not all companies offer one.
+
+What is a bond?
+A form of debt that a company or city issues; it’s a way companies build new warehouses or cities build new schools. You make money from bonds from interest paid to you (because you are lending them money).
+
+What is an ETF?
+An ETF is a collection of stocks and bonds.
+
+Instead of buying $100 of Amazon, you can buy $100 of a collection of the top companies in the USA. These collections are called indexes.
+
+Why should you buy ETFs (index funds)?
+
+If you own a little store and you want to sell soda cans to people, buying one big pack of Coca Cola may be a little risky. What happens if people start liking other drinks more? What happens if people like one brand this week, but not next? A safer choice would be to buy a variety pack that includes all of the most popular drinks for the same price.
+
+If you buy an ETF, you are doing the same thing. By investing in an index of many companies, you minimize your risk through diversification. 
+
+This approach is statistically considered the safest way to invest, and it's often how your 401K money is invested.
+
+So let’s talk about retirement…
+
+
+Retirement
+What is a 401K account?
+A special brokerage account that has tax advantages and an employer match (typically). Usually, when you enroll in your 401K account, you automatically buy an index fund mixed with stocks & bonds every pay-period contribution.
+
+People don’t usually realize that their 401K account is invested in the stock market!
+
+If you ever want to see what you are invested in, go under the “My Investments” tab on your 401K’s website. It will tell you what index fund(s) you are buying.
+
+What types of  401k accounts are there?
+There are two types of 401K accounts, a regular account (pre-tax) and a ROTH account (post-tax); the main difference between them is when you pay your taxes. I’ll explain…
+
+A regular 401k account is the default you are  signed up for when you enroll in your company’s plan. Your retirement contributions are made before (pre) you pay your taxes.
+
+A Roth 401k account takes your contributions after (post) you pay your taxes.
+
+So why does this matter? If you choose the regular 401k account you will have to pay your income taxes once you retire and start taking the money out. If you do not expect you will be earning a lot of money when you are of retirement age, a regular (pre-tax) account may be your best option. 
+
+If you do expect to earn the same or more money when you are of retirement age, a Roth account will allow you to take out your money tax free. 
+
+For example, if you retire and take out $50K every year, and you also earn $40K from work, your total taxable income would be $90K, which would be subject to the higher tax bracket.
+
+What is an IRA account?
+An Individual Retirement Account works the same as the 401k account, except that they are private. Which means that there are no employer contributions and you can decide to open it with any bank at any time.
+
+
+
+Investing Cheat Sheet Page 2 (Introduction)
+Why should you invest?
+There is the popular fear that investing is difficult and risky. In reality, it does not have to be more difficult or risky than investing in your 401k account.
+
+Almost all retirement accounts are invested in the S&P 500, a list of the top 500 companies in the country. So you could basically do the same thing with your own brokerage account, but with the ability to sell and pull your money out anytime you want. If you are saving up for a big purchase (like a house), this may be an excellent way to do that.
+
+What is the right investment for me?
+
+Savings accounts are a great place to keep your emergency savings (I personally like to keep 6 months of rent and utilities there). However, after you consider that money left in your savings account is losing 2% of its value every year due to inflation, it is good to consider your investing options. 
+
+Below are two tables with average return per investments and average return over time.
+
+Type
+Timeline
+Average Return
+Savings Acc
+Anytime
+0.1%
+Bonds
+1-5 Years
+2% - 3%
+ETFs
+5+ Years
+7% - 11%
+
+
+
+Five Steps to Get Started
+1. Have 3 to 6 months of emergency savings.
+
+2. Open up a brokerage account 
+Robinhood tends to be a little easier to use (at least for me), but I would simply look up ‘commission free brokerage accounts online’ and pick the one that looks best to you.
+
+3. Set a timeline
+As a rule for myself, I usually never invest money that I am planning on using within the next 3 to 5 years. You never know when the next housing crisis (2008), pandemic (Covid), or war (Ukraine) is going to be. During these events, the entire stock market goes down, which means you may need to wait to sell your investments for months or even years. 
+
+As long as you do not sell your ETF below the price you bought it, you should be fine. Ideally, these are the best times to buy more!
+
+4. Set a budget
+Contribute to your account regularly; every week, two weeks, or monthly. If you are nervous (which is completely understandable), I would suggest starting with a $5 weekly contribution. Once you get more comfortable, you can increase it if you like to.
+
+5. Start buying ETFs
+I would set up a recurring purchase of VOO (Vanguard S&P 500 ETF) or VTI (Vanguard Total Stock Market ETF). These are two of my favorite ETFs, but there are plenty of other ‘low-cost diversified ETFs’.
+
+
+Weekly
+Contribution
+Year 1
+Year 5
+Year 10
+Year 20
+Year 40
+Return
+This table illustrates the potential returns on weekly investments over various timeframes (1, 5, 10, 20, and 40 years). 
+
+It shows how different weekly contributions, ranging from $5 to $100, can accumulate significantly over time. 
+
+The table provides two sets of projected returns.
+$5
+$249
+$1,432
+$3,440
+$10,208
+$49,710
+
+$20
+$990
+$5,695
+$13,684
+$40,602
+$197,723
+$50
+$2,476
+$14,239
+$34,210
+$101,507
+$494,308
+$100
+$4,952
+$28,478
+$68,420
+$203,014
+$988,616
+$5
+$256
+$1,568
+$4,211
+$16,170
+$146,545
+
+$20
+$1,007
+$6,274
+$16,847
+$64,683
+$586,182
+$50
+$2,518
+$15,686
+$42,118
+$161,708
+$1,465,457
+$100
+$5,037
+$31,372
+$84,236
+$323,417
+$2,930,914
+
+
+
+Sergio’s Investing Cheat Sheet Page 1 (Advance)
+Investing Strategy
+For most people, a regular investment into VOO (Vanguard S&P 500 ETF) will meet their investing needs. This sheet offers strategies to maximize profits or decrease portfolio volatility for those seeking more advanced options. 
+
+3 Questions Before Buying Any ETF
+
+1. What index or sector it follows? Part 1
+Indexes are lists of companies that represent sectors of an economy or country. To be part of these lists the companies have to meet benchmarks for growth, market share, revenue performance, sector, size and many others. 
+
+2. What growth type does it have? Part 2
+An index can also be ‘weighted’ by growth type. If you are looking for maximum growth and not easily intimidated by large swings in your portfolio, a ‘growth weighted ETF’ may best suit you. If you are looking for a steady stream of income from dividends and would like the value of your portfolio to not fluctuate too much, a ‘value weighted ETF’ may best suit you. If you would like a middle of the road option, the standard ‘market-weighted ETF’ will work. If an ETF is market-weighted, it will tell you in the description, not the title.
+
+Portofolio: What you call the collection of ETFs, bonds and other investments you hold.
+
+Volatility: An investment’s change in value over a period of time.
+
+3. Is the company selling it trustworthy?
+ETFs can be made and sold by many investment banks. Typically, it is safest to buy from reputable names like Blackrock or Vanguard, who will offer low-fee diversified index products. My personal favorite is Vanguard, but there are others to choose from.
+
+Investment bank: A bank that specializes in investment products (like ETFs). Typically, they would not offer things like checking accounts or credit cards.
+
+Let me go into a little more detail on items 1 and 2 in the next section.
+Part 1. What index or sector it follows?
+As covered before, an index is a standardized list of companies that covers different sectors of an economy. You could find an index for the largest companies in China, Europe, or the whole world. They can be as narrow or as broad as you can imagine.
+
+To get started, you can search for 'low-cost diversified index funds.' You can also narrow your scope by adding criteria like 'based in the US economy.' Always ensure the index is reputable. My three preferred index funds are S&P 500, NASDAQ 100, and Russell 1000
+
+You can further narrow your index by following a specific sector of the economy via a sector ETF. For example you can buy an ETF that only has pharmaceutical companies or only renewable energy companies.
+
+Remember, diversification is the key to minimizing risk. A sector ETF will therefore increase risk, since it is narrowing down the types of companies it holds. Nonetheless, a sector ETF is still more diverse than purchasing a single company stock. 
+
+For example, if you believe semiconductors will be a profitable business in the future, instead of choosing NVIDIA, a semiconductor ETF will give you exposure to the industry without putting all your eggs in one basket.
+
+As a personal rule, unless it's an S&P 500 ETF, I ensure no single stock or ETF makes up more than 10% of my portfolio.
+
+Part 2. What growth type does it have?
+A growth ETF will likely ensure greater returns over a longer timeline, but increases your short term volatility. They’re more likely to get large swings in price, which can make them difficult to sell in short notice. The ETF would have a greater proportion of companies like Tesla, Amazon, and Meta.
+
+A value ETF will likely not grow as much, since it is made up of companies who stopped growing their market share but still make a lot of money. Think of companies like Coca Cola, Honda or Johnson & Johnson.
+
+A dividend ETF is very similar to a value ETF, but it further concentrates on companies with a high and consistent dividend.
+
+
+Sergio’s Investing Cheat Sheet Page 2 (Advance)
+ETF Selection - Summary
+When you search for an ETF, you'll see many options. Pick using this simple formula:
+
+1. Choose your basket: S&P 500 (safest), NASDAQ 100 (tech focus), or Russell 1000 (broad US)
+
+2. Choose your style: Standard (balanced), Growth (higher returns/volatility), Value (lower returns/volatility)
+
+3. Choose your provider: Vanguard or BlackRock (lowest fees)
+
+Example: 'Vanguard S&P 500 ETF' = Vanguard (provider) + S&P 500 (basket) + Standard (style)
+
+My Portfolio Sample
+VOO
+VTI
+VOOG
+VGT
+QQQ
+VYM
+Other
+Stocks
+Cash
+Vanguard ‘S&P 500’ ETF
+Vanguard ‘Total Stock Market’ Index
+Vanguard ‘S&P 500’ Growth ETF 
+Vanguard ‘Information Technology’ ETF
+Invesco ‘NASDAQ 100’ ETF
+Vanguard ‘High Dividend Yield’ ETF
+Other ETFs
+Individual companies
+For buying opportunities
+5%
+5%
+10%
+10%
+10%
+10%
+30%
+10%
+10%
+
+
+What is a rollover IRA?
+It’s an IRA account that holds your investments from one or multiple 401k accounts. You are simply transferring your stuff from your employer's 401k website to your own bank, like Wells Fargo, Ally, Fidelity, or Vanguard. 
+You typically can continue to make contributions to it and all the retirement account rules still apply. When you leave a job, don't leave your 401k behind. Move it to a rollover IRA at a bank you like.
+What is a target date index fund?
+When you start contributing to a 401k account, the retirement company often assigns a target date index fund based on your age (assuming your retirement age). For example, if you are 35 and start a new job, you might be enrolled in something like 'Vanguard Target Date Retirement Fund 2050.' 
+If you go to your retirement website and click through them, the main difference between a '2050' and a '2020' fund is the ratio of bonds to stocks it holds; a 2050 fund probably has 80% stocks/20% bonds, while '2020' may have 50% stocks/50% bonds. So why does this matter?
+Why Are Bonds Important? Bonds are like a savings account that pays fixed interest. They don't grow much, but they're super safe.
+Why Are Bonds Important? Bonds are like a savings account that pays fixed interest. They don't grow much, but they're super safe.
+
+Perfect for:
+- People close to retirement
+- Anyone who needs steady income
+
+Think of it this way: Stocks are like a sports car (fast but bumpy), bonds are like a reliable sedan (slow but smooth).
+
+So why does this matter for investing strategy? It allows you to adjust risk/returns to your 401k portfolio. If you feel like you can tolerate a bit more volatility, choosing '2060' or '2070' will increase your stock to bond ratio, thereby increasing your returns and volatility. If you want something more stable, you can change to '2040' or '2030', increasing your bond to stock ratio, thereby decreasing volatility and returns. 
+
+Every investment has trade-offs:
+- Higher returns means higher volatility
+- Lower return means lower volatility
+- Time matters - young people can take more volatility
+
+If you want even more control over it, you can choose a specific ETF and bond to buy, and adjust the percent of each you would like to purchase on every contribution. Just be cautious doing this because you will have to remember transitioning your stock to bond ratio as you get closer to your retirement age. A nice thing about the target date funds is that they automatically start adjusting that ratio on their own.
+
+
+
+*Note: If you look in your target date fund, it is likely a split of an S&P 500 ETF and U.S. Treasury bonds.
+
+How Do ETFs Choose Companies?
+Think of an ETF like a fruit basket:
+
+Market-weighted: More apples if apples are more popular. Most ETFs are market-weighted (bigger companies get more space in the basket).
+
+Equal-weighted: Same amount of each fruit, regardless of popularity
+Sector-weighted: Extra oranges if you want a citrus-focused basket. So focus on one industry (like VGT for technology)
+
+Dividend ETFs focus on companies that pay regular income (like VYM)
+
+
