@@ -1,5 +1,5 @@
 html, body {
-	background: #663399; /* Beccapurple */
+	background: rgb(29.402% 25.145% 31.656%); /* Beccapurple */
 	margin: 0;
 }
 h1, h2, h3, h4, h5, h6, p {
@@ -87,7 +87,7 @@ header h2 {
 }
 aside {
 	padding: 1em;
-	background:rgb(83, 104, 138);
+	background:rgb(29.402% 25.145% 31.656%);
 	color: white;
 	margin-bottom: 1em;
 }
