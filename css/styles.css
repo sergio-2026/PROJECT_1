@@ -112,3 +112,11 @@ blockquote {
 	float: left;
 	margin-right: 10px;
 }
+/* auto adjust to fit the page */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1em; /* center and make space below */
+}
+

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Potential Returns Over Time</title>
+  <link href="css/styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header role="banner">
+    <h1>Sergio's Investing Cheat Sheet</h1>
+    <h2>Potential Returns Over Time</h2>
+    <nav role="navigation">
+      <ul>
+        <li><a href="index.html" title="Introduction to Investing">Introduction to Investing</a></li>
+        <li><a href="retirement.html" title="Introduction to Retirement Investing">Introduction to Retirement
+            Investing</a></li>
+        <li><a href="conditions.html" title="Am I Ready to Invest?">Am I Ready to Begin Investing?</a></li>
+        <li><a href="guide.html" title="Step by Step Guide">Step by Step Investing Guide</a></li>
+        <li><a href="potential.html" title="Potential Returns Over Time">Potential Returns Over Time</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main role="main">
+    <article role="article">
+      <section>
+        <h3>How weekly contributions can grow over time</h3>
+        <p>
+          This table illustrates the potential returns on weekly investments over various timeframes (1, 5, 10, 20, and
+          40 years).
+          It shows how different weekly contributions, ranging from $5 to $100, can accumulate significantly over time.
+          The table provides two sets of projected returns.
+        </p>
+
+        <table class="recurring-settings" border="1" cellspacing="0" cellpadding="0">
+          <thead>
+            <tr>
+              <th scope="col">Weekly<br>Contribution</th>
+              <th scope="col">Year 1</th>
+              <th scope="col">Year 5</th>
+              <th scope="col">Year 10</th>
+              <th scope="col">Year 20</th>
+              <th scope="col">Year 40</th>
+              <th scope="col">Return</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- 7% rows -->
+            <tr>
+              <td>$5</td>
+              <td>$249</td>
+              <td>$1,432</td>
+              <td>$3,440</td>
+              <td>$10,208</td>
+              <td>$49,710</td>
+              <td rowspan="4">7% Avg. Annual Return</td>
+            </tr>
+            <tr>
+              <td>$20</td>
+              <td>$990</td>
+              <td>$5,695</td>
+              <td>$13,684</td>
+              <td>$40,602</td>
+              <td>$197,723</td>
+            </tr>
+            <tr>
+              <td>$50</td>
+              <td>$2,476</td>
+              <td>$14,239</td>
+              <td>$34,210</td>
+              <td>$101,507</td>
+              <td>$494,308</td>
+            </tr>
+            <tr>
+              <td>$100</td>
+              <td>$4,952</td>
+              <td>$28,478</td>
+              <td>$68,420</td>
+              <td>$203,014</td>
+              <td>$988,616</td>
+            </tr>
+
+            <!-- 11% rows -->
+            <tr>
+              <td>$5</td>
+              <td>$256</td>
+              <td>$1,568</td>
+              <td>$4,211</td>
+              <td>$16,170</td>
+              <td>$146,545</td>
+              <td rowspan="4">11% Avg. Annual Return</td>
+            </tr>
+            <tr>
+              <td>$20</td>
+              <td>$1,007</td>
+              <td>$6,274</td>
+              <td>$16,847</td>
+              <td>$64,683</td>
+              <td>$586,182</td>
+            </tr>
+            <tr>
+              <td>$50</td>
+              <td>$2,518</td>
+              <td>$15,686</td>
+              <td>$42,118</td>
+              <td>$161,708</td>
+              <td>$1,465,457</td>
+            </tr>
+            <tr>
+              <td>$100</td>
+              <td>$5,037</td>
+              <td>$31,372</td>
+              <td>$84,236</td>
+              <td>$323,417</td>
+              <td>$2,930,914</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section>
+        <h3>Estimate your total contributions</h3>
+        <p>
+          A really simple way to think about how much you put in over time is:
+        </p>
+        <p>
+          <code>
+            <var>contribution_per_period</var> &times;
+            <var>number_of_periods</var> =
+            <var>total_contributed</var>
+          </code>
+        </p>
+
+        <form class="contribution-estimator">
+          <p>
+            Use this basic form to plan your recurring investment amount.
+            (Just for planning&mdash;it does not actually calculate anything.)
+          </p>
+
+          <label>
+            Contribution per period ($):
+            <input type="number" name="contribution" min="0" step="1" />
+          </label>
+
+          <label>
+            Number of periods (for example, weeks):
+            <input type="number" name="periods" min="1" step="1" />
+          </label>
+        </form>
+      </section>
+    </article>
+  </main>
+
+  <footer role="contentinfo">
+    <p>&copy; 2026 Sergio's Investing Cheat Sheet.</p>
+  </footer>
+</body>
+
+</html>
