@@ -1,117 +1,169 @@
+:root {
+  --color-1: rgb(48.604% 3.7769% 6.346%);   /* dark text */
+  --color-2: rgb(92.097% 99.637% 88.36%);   /* light background */
+}
+
+/* Normal theme (used implicitly by body) */
+.combo-1 {
+  color: var(--color-1);
+  background-color: var(--color-2);
+}
+
+/* Inverse theme (kept in case you want it later) */
+.combo-2 {
+  color: var(--color-2);
+  background-color: var(--color-1);
+}
+
+/* Page-level background (outside the centered white body is gone now) */
 html, body {
-	background: rgb(29.402% 25.145% 31.656%); /* Beccapurple */
-	margin: 0;
+  margin: 0;
+  padding: 0;
+  background: var(--color-2);
 }
+
+/* Reset margins */
 h1, h2, h3, h4, h5, h6, p {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
+
+/* Headings use the same dark color as text, slightly tweaked */
 h1, h2, h3, h4, h5, h6 {
-	color: rgb(107, 107, 132);
+  color: var(--color-1);
 }
+
+/* Main body box now uses the light background and dark text from Randoma11y */
 body {
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 100%;
-	width: 80%;
-	margin-right: auto;
-	margin-left: auto;
-	padding: 2.5% 2.5% 0;
-	background: white;
-	line-height: 1.8;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 100%;
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 2.5% 2.5% 0;
+  background: var(--color-2);
+  line-height: 1.8;
+  color: var(--color-1);
 }
+
+/* Fine-tune headings */
 h1 {
-	font: 1.6em Verdana, Geneva, sans-serif;
-	margin-bottom: .4em;
-	color: rgb(83, 104, 138);
+  font: 1.6em Verdana, Geneva, sans-serif;
+  margin-bottom: .4em;
+  color: var(--color-1);
 }
+
 h2 {
-	font: 3.2em Georgia, "Times New Roman", Times, serif;
-	margin-bottom: .2em;
+  font: 3.2em Georgia, "Times New Roman", Times, serif;
+  margin-bottom: .2em;
 }
+
 h3 {
-	font-size: 1.2em;
+  font-size: 1.2em;
 }
+
 p {
-	margin-bottom: 1em;
+  margin-bottom: 1em;
 }
+
+/* Links: use a darker variant of color-1 style */
 a {
-	color: rgb(184, 126, 84);
+  color: rgb(83, 40, 30);
 }
+
 a:hover {
-	color: rgb(120, 97, 55);
+  color: rgb(50, 25, 20);
 }
+
 pre {
-	font-size: 1.4em;
-	color: white;
-	padding: .5em 1em;
-	border-left: 1em solid #A68048;
-	background: #666;
-	white-space: pre-wrap;
-	white-space: -moz-pre-wrap;
-	white-space: -pre-wrap;
-	white-space: -o-pre-wrap;
-	word-wrap: break-word;
-	width: 80%;
+  font-size: 1.4em;
+  color: white;
+  padding: .5em 1em;
+  border-left: 1em solid #A68048;
+  background: #666;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+  width: 80%;
 }
+
 pre.wrong {
-	border-left-color: red;
+  border-left-color: red;
 }
+
 pre.correct {
-	border-left-color: green;
+  border-left-color: green;
 }
+
 dt {
-	font-style: italic;
-	font-size:1.2em;
+  font-style: italic;
+  font-size: 1.2em;
 }
+
 dd {
-	margin-bottom: 1.4em;
+  margin-bottom: 1.4em;
 }
+
 table {
-	margin-top: 1em;
+  margin-top: 1em;
 }
+
 caption {
-	margin: 0;
-	padding: 0;
-	margin-bottom: 1em;
-	text-align: left;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 1em;
+  text-align: left;
 }
+
 td, th {
-	padding: 10px;
+  padding: 10px;
 }
+
 .center {
-	text-align: center;
+  text-align: center;
 }
+
 header h2 {
-	padding-bottom: .2em;
-	border-bottom: 1px solid gray;
+  padding-bottom: .2em;
+  border-bottom: 1px solid gray;
 }
+
+/* Aside uses inverse combo-2 so it stands out */
 aside {
-	padding: 1em;
-	background:rgb(29.402% 25.145% 31.656%);
-	color: white;
-	margin-bottom: 1em;
+  padding: 1em;
+  background: var(--color-1);
+  color: var(--color-2);
+  margin-bottom: 1em;
 }
+
 aside h4 {
-	color: white;
+  color: var(--color-2);
 }
+
 footer {
-	border-top: 1px solid gray;
-	text-align: center;
-	font-size: .8em;
-	line-height: 4em;
-	margin-top: 1em;
+  border-top: 1px solid gray;
+  text-align: center;
+  font-size: .8em;
+  line-height: 4em;
+  margin-top: 1em;
 }
+
 blockquote {
-	font-style: italic;
+  font-style: italic;
 }
+
 .flowRight {
-	float: right;
-	margin-left: 10px;
+  float: right;
+  margin-left: 10px;
 }
+
 .flowLeft {
-	float: left;
-	margin-right: 10px;
+  float: left;
+  margin-right: 10px;
 }
+
 /* auto adjust to fit the page */
 img {
   max-width: 100%;
@@ -119,4 +171,3 @@ img {
   display: block;
   margin: 0 auto 1em; /* center and make space below */
 }
-

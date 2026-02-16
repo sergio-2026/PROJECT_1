@@ -119,7 +119,6 @@
           </tbody>
         </table>
       </section>
-
       <section>
         <h3>Estimate your total contributions</h3>
         <p>
@@ -132,22 +131,32 @@
             <var>total_contributed</var>
           </code>
         </p>
-
-        <form class="contribution-estimator">
+      
+        <form class="contribution-estimator" id="investment-form">
           <p>
-            Use this basic form to plan your recurring investment amount.
-            (Just for planning&mdash;it does not actually calculate anything.)
+            Use this investment calculator to project possible future returns.
           </p>
-
-          <label>
-            Contribution per period ($):
-            <input type="number" name="contribution" min="0" step="1" />
-          </label>
-
-          <label>
-            Number of periods (for example, weeks):
-            <input type="number" name="periods" min="1" step="1" />
-          </label>
+      
+          <p>
+            <label for="contribution">Contribution per week ($):</label><br>
+            <input type="number" id="contribution" name="contribution" min="0" step="1" />
+          </p>
+      
+          <p>
+            <label for="years">Number of years (for example, 5):</label><br>
+            <input type="number" id="years" name="years" min="1" step="1" />
+          </p>
+      
+          <p>
+            <label for="rate">Return per year (for example, 7 for 7%):</label><br>
+            <input type="number" id="rate" name="rate" min="0" step="0.1" />
+          </p>
+      
+          <p>
+            <button type="button" id="calculate-button">Calculate</button>
+          </p>
+      
+          <p id="result" aria-live="polite"></p>
         </form>
       </section>
     </article>
