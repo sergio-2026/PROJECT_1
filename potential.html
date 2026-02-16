@@ -33,7 +33,7 @@
           It shows how different weekly contributions, ranging from $5 to $100, can accumulate significantly over time.
           The table provides two sets of projected returns.
         </p>
-
+        <!-- I used thead and body below to make my table-->
         <table class="recurring-settings" border="1" cellspacing="0" cellpadding="0">
           <thead>
             <tr>
@@ -124,26 +124,27 @@
         <p>
           A really simple way to think about how much you put in over time is:
         </p>
+        <!-- I used <var> tags to show that we are dealing with formula inputs below-->
         <p>
-          <code>
-            <var>contribution_per_period</var> &times;
-            <var>number_of_periods</var> =
-            <var>total_contributed</var>
-          </code>
+          <em>
+            <var>contribution per week</var> ×
+            <var>number of weeks</var> =
+            <var>return on investment</var>
+          </em>
         </p>
-      
+
         <form class="contribution-estimator" id="investment-form">
           <p>
             Use this investment calculator to project possible future returns.
           </p>
-      
+          <!-- I used step to set the increments for the calculator below-->
           <p>
             <label for="contribution">Contribution per week ($):</label><br>
             <input type="number" id="contribution" name="contribution" min="0" step="1" />
           </p>
       
           <p>
-            <label for="years">Number of years (for example, 5):</label><br>
+            <label for="years">Number of years (for example, 5 for 5 years):</label><br>
             <input type="number" id="years" name="years" min="1" step="1" />
           </p>
       
