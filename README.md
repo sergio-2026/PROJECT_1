@@ -1,2 +1,2 @@
 #class readme file
-https://github.com/sergio-2026/PROJECT_1
+https://sergio-2026.github.io/PROJECT_1/
